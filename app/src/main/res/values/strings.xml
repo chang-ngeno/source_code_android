@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="action_settings">Local Shipping</string>
+    <string name="action_settings1">International Shipping</string>
+    <string name="action_settings2">Drop-off Points</string>
+    <string name="action_settings3">Self Collect</string>
+    <string name="shipping">Shipping</string>
+    <string name="business_name">Jahmu Collections!</string>
+</resources>
